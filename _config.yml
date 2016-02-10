@@ -16,6 +16,7 @@ url: "http://ideathinking.com"
 twitter_username: iwongu
 github_username: iwongu
 gems: [jekyll-paginate]
+permalink: /:year/:month/:title.html
 
 # Build settings
 markdown: kramdown
