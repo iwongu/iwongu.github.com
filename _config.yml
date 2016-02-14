@@ -15,7 +15,7 @@ paginate: 5
 url: "http://ideathinking.com"
 twitter_username: iwongu
 github_username: iwongu
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
 permalink: /:year/:month/:title.html
 
 # Build settings
