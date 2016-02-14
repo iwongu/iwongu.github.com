@@ -19,4 +19,5 @@ date:   2016-02-13 20:46:16 -0800
 * *API key* (Browser key) 생성한다.
 * *OAuth 2.0 client ID* 생성한다.
   * 설정에서 *Authorized JavaScript origins*에 블로그 hostname을 등록한다.
-* 생성한 키들을 워드프레스 관리자 화면 *Settings* -> *Media* -> *Google Photos Picker plugin settings"에 등록한다.
+* 10분 정도 기다린다.
+* 생성한 키들을 워드프레스 관리자 화면 *Settings* -> *Media* -> *Google Photos Picker plugin settings*에 등록한다.
