@@ -26,3 +26,7 @@ date:   2016-02-13 20:46:16 -0800
 # Update
 
 wordpress.org에서 플러그인 이름에 트레이드마크가 들어갔다는 이유로 거부 메일을 받았다. 이름을 Google Photos Picker에서 Photos Picker로 바꿔서 다시 신청.
+
+# Update #2
+
+등록 완료 [https://wordpress.org/plugins/photos-picker/        ](https://wordpress.org/plugins/photos-picker/)
